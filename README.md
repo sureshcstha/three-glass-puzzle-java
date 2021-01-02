@@ -1,1 +1,1 @@
-# three-glass-puzzle-java3230
+# three-glass-puzzle-java
